@@ -1,0 +1,513 @@
+,Edition,Athlete,NOC,Medal
+151,1900,"HALMAY, Zoltan",HUN,Bronze
+152,1900,"JARVIS, John Arthur",GBR,Gold
+153,1900,"WAHLE, Otto",AUT,Silver
+154,1900,"DROST, Johannes",NED,Bronze
+155,1900,"HOPPENBERG, Ernst",GER,Gold
+156,1900,"RUBERL, Karl",AUT,Silver
+157,1900,"RUBERL, Karl",AUT,Bronze
+158,1900,"LANE, Frederick C.V.",AUS,Gold
+159,1900,"HALMAY, Zoltan",HUN,Silver
+160,1900,"KEMP, Peter",GBR,Bronze
+161,1900,"LANE, Frederick C.V.",AUS,Gold
+162,1900,"WAHLE, Otto",AUT,Silver
+163,1900,HOUBEN,FRA,Bronze
+164,1900,"LEUILLIEUX, Jean",FRA,Bronze
+165,1900,"MARTIN, Louis",FRA,Bronze
+166,1900,"MERCHEZ, Désiré",FRA,Bronze
+167,1900,TARTARA,FRA,Bronze
+168,1900,"FREY, Julius",GER,Gold
+169,1900,"HAINLE, Max",GER,Gold
+170,1900,"HOPPENBERG, Ernst",GER,Gold
+171,1900,"SCHÖNE, Max",GER,Gold
+172,1900,"VON PETERSDORFF, Herbert",GER,Gold
+173,1900,BERTRAND,FRA,Silver
+174,1900,CADET,FRA,Silver
+175,1900,"HOCHEPIED, Maurice",FRA,Silver
+176,1900,"HOCHEPIED, Victor",FRA,Silver
+177,1900,VERBECKE,FRA,Silver
+178,1900,"MARTIN, Louis",FRA,Bronze
+179,1900,"JARVIS, John Arthur",GBR,Gold
+180,1900,"HALMAY, Zoltan",HUN,Silver
+181,1900,"LYKKEBERG, Peder",DEN,Bronze
+182,1900,"DE VENDEVILLE, Charles",FRA,Gold
+183,1900,"SIX, André",FRA,Silver
+184,1900,"BURGESS, Thomas",FRA,Bronze
+185,1900,COULON,FRA,Bronze
+186,1900,"DECUYPER, Alphonse",FRA,Bronze
+187,1900,DEVENOT,FRA,Bronze
+188,1900,FARDELLE,FRA,Bronze
+189,1900,FAVIER,FRA,Bronze
+190,1900,"LAUFRAY, Louis",FRA,Bronze
+191,1900,LERICHE,FRA,Bronze
+192,1900,"MARTIN, Louis",FRA,Bronze
+193,1900,"MERCHEZ, Désiré",FRA,Bronze
+194,1900,"PESLIER, Henri",FRA,Bronze
+195,1900,PESLOY,FRA,Bronze
+196,1900,"TREFFEL, Charles",FRA,Bronze
+197,1900,"VASSEUR, Paul",FRA,Bronze
+198,1900,"COE, Thomas",GBR,Gold
+199,1900,"DERBYSHIRE, John Henry",GBR,Gold
+200,1900,"KEMP, Peter",GBR,Gold
+201,1900,"LISTER, William",GBR,Gold
+202,1900,"ROBERTSON, Arthur",GBR,Gold
+203,1900,"ROBINSON, Eric",GBR,Gold
+204,1900,"WILKINSON, George",GBR,Gold
+205,1900,"COHEN, Henri",BEL,Silver
+206,1900,"DE BACKER, Jean",BEL,Silver
+207,1900,"DE BEHR, Victor",BEL,Silver
+208,1900,"FEYAERTS, Fernand",BEL,Silver
+209,1900,"GREGOIRE, Oscar",BEL,Silver
+210,1900,"MICHANT, Albert",BEL,Silver
+211,1900,"SONNEMANS, Victor",BEL,Silver
+212,1900,"PETIT, Charles Frédéric",FRA,Bronze
+213,1900,"VAN INNIS, Hubert",BEL,Gold
+214,1900,"THIBAUD, Victor",FRA,Silver
+215,1900,"MERCIER, Emile",FRA,Bronze
+216,1900,"MOUGIN, Eugène",FRA,Gold
+217,1900,"HELLE, Henri",FRA,Silver
+218,1900,"PETIT, Charles Frédéric",FRA,Bronze
+219,1900,"VAN INNIS, Hubert",BEL,Gold
+220,1900,"THIBAUD, Victor",FRA,Silver
+221,1900,"FISSEUX, Emile",FRA,Bronze
+222,1900,"HEROUIN, Henri",FRA,Gold
+223,1900,"VAN INNIS, Hubert",BEL,Silver
+224,1900,"FOULON, Emmanuel",BEL,Gold
+225,1900,"DRUART, Jr.",BEL,Silver
+226,1900,"SERRURIER, Auguste",FRA,Silver
+227,1900,"GLINEUX, Louis",BEL,Bronze
+228,1900,"GRUMIAUX, Emile",FRA,Gold
+229,1900,"SERRURIER, Auguste",FRA,Silver
+230,1900,"ROWLEY, Stanley",AUS,Bronze
+231,1900,"JARVIS, Francis",USA,Gold
+232,1900,"TEWKSBURY, Walter B. John",USA,Silver
+233,1900,"MOLONEY, Frederick",USA,Bronze
+234,1900,"KRAENZLEIN, Alvin",USA,Gold
+235,1900,"MCLEAN, John",USA,Silver
+236,1900,"BRAY, John",USA,Bronze
+237,1900,"BENNETT, Charles",GBR,Gold
+238,1900,"DELOGE, Henri",FRA,Silver
+239,1900,"ROWLEY, Stanley",AUS,Bronze
+240,1900,"TEWKSBURY, Walter B. John",USA,Gold
+241,1900,"PRITCHARD, Norman",IND,Silver
+242,1900,"TEWKSBURY, Walter B. John",USA,Bronze
+243,1900,"KRAENZLEIN, Alvin",USA,Gold
+244,1900,"PRITCHARD, Norman",IND,Silver
+245,1900,"CHASTANIE, Jacques",FRA,Bronze
+246,1900,"ORTON, George",CAN,Gold
+247,1900,"ROBINSON, Sidney",GBR,Silver
+248,1900,"ROBINSON, Sidney",GBR,Bronze
+249,1900,"RIMMER, John",GBR,Gold
+250,1900,"BENNETT, Charles",GBR,Silver
+251,1900,"SCHULTZ, Ernst",DEN,Bronze
+252,1900,"LONG, Maxwell W.Maxey",USA,Gold
+253,1900,"HOLLAND, William",USA,Silver
+254,1900,"ORTON, George",CAN,Bronze
+255,1900,"TEWKSBURY, Walter B. John",USA,Gold
+256,1900,"TAUZIN, Henri",FRA,Silver
+257,1900,"BENNETT, Charles",ZZX,Gold
+258,1900,"RIMMER, John",ZZX,Gold
+259,1900,"ROBINSON, Sidney",ZZX,Gold
+260,1900,"ROWLEY, Stanley",ZZX,Gold
+261,1900,"TYSOE, Alfred",ZZX,Gold
+262,1900,"CASTANET, André",FRA,Silver
+263,1900,"CHAMPOUDRY, Michel",FRA,Silver
+264,1900,"CHASTANIE, Jacques",FRA,Silver
+265,1900,"DELOGE, Henri",FRA,Silver
+266,1900,"RAGUENEAU, Gaston",FRA,Silver
+267,1900,"ROWLEY, Stanley",AUS,Bronze
+268,1900,"KRAENZLEIN, Alvin",USA,Gold
+269,1900,"TEWKSBURY, Walter B. John",USA,Silver
+270,1900,"HALL, David",USA,Bronze
+271,1900,"TYSOE, Alfred",GBR,Gold
+272,1900,"CREGAN, John",USA,Silver
+273,1900,"SHELDON, Richard",USA,Bronze
+274,1900,"BAUER, Rudolf",HUN,Gold
+275,1900,"JANDA, Frantisek",BOH,Silver
+276,1900,"MCCRACKEN, Josiah",USA,Bronze
+277,1900,"FLANAGAN, John Jesus",USA,Gold
+278,1900,"HARE, Thomas Truxton",USA,Silver
+279,1900,"GÖNCZY, Lajos",HUN,Bronze
+280,1900,"BAXTER, Irving",USA,Gold
+281,1900,"LEAHY, Patrick Joseph",GBR,Silver
+282,1900,"SHELDON, Lewis Pendleton",USA,Bronze
+283,1900,"EWRY, Ray",USA,Gold
+284,1900,"BAXTER, Irving",USA,Silver
+285,1900,"LEAHY, Patrick Joseph",GBR,Bronze
+286,1900,"KRAENZLEIN, Alvin",USA,Gold
+287,1900,"PRINSTEIN, Meyer",USA,Silver
+288,1900,"TORCHEBOEUF, Emile",FRA,Bronze
+289,1900,"EWRY, Ray",USA,Gold
+290,1900,"BAXTER, Irving",USA,Silver
+291,1900,"FAST, Ernst",SWE,Bronze
+292,1900,"THEATO, Michel",FRA,Gold
+293,1900,"CHAMPION, Emile",FRA,Silver
+294,1900,"ANDERSEN, Carl Albert",NOR,Bronze
+295,1900,"BAXTER, Irving",USA,Gold
+296,1900,"COLKETT, Meredith Bright",USA,Silver
+297,1900,"GARRETT, Robert",USA,Bronze
+298,1900,"SHELDON, Richard",USA,Gold
+299,1900,"MCCRACKEN, Josiah",USA,Silver
+300,1900,"SHELDON, Lewis Pendleton",USA,Bronze
+301,1900,"PRINSTEIN, Meyer",USA,Gold
+302,1900,"CONNOLLY, James",USA,Silver
+303,1900,"GARRETT, Robert",USA,Bronze
+304,1900,"EWRY, Ray",USA,Gold
+305,1900,"BAXTER, Irving",USA,Silver
+306,1900,"De AMEZOLA y ASPIZUA, José",ESP,Gold
+307,1900,"VILLOTA BAQUIOLA, Francisco",ESP,Gold
+308,1900,"DURQUETTY, Maurice",FRA,Silver
+309,1900,ETCHEGARAY,FRA,Silver
+310,1900,"BEACHCROFT, Charles",GBR,Gold
+311,1900,"BIRKETT, Arthur Ernest",GBR,Gold
+312,1900,"BOWERMAN, Alfred James",GBR,Gold
+313,1900,"BUCKLEY, George John",GBR,Gold
+314,1900,"BURCHELL, Francis Romulus",GBR,Gold
+315,1900,"CHRISTIAN, Frederick William",GBR,Gold
+316,1900,"CORNER, Harry Richard",GBR,Gold
+317,1900,"CUMING, Frederick Wlliam",GBR,Gold
+318,1900,"DONNE, William Stephen",GBR,Gold
+319,1900,"POWLESLAND, Alfred James",GBR,Gold
+320,1900,"SYMES, John",GBR,Gold
+321,1900,"TOLLER, Montagu Henry",GBR,Gold
+322,1900,"ANDERSON, W.",FRA,Silver
+323,1900,"ATTRILL, W.T.",FRA,Silver
+324,1900,"BRAID, J.",FRA,Silver
+325,1900,"BROWNING, W.",FRA,Silver
+326,1900,"HORNE, R.",FRA,Silver
+327,1900,"JORDAN, T.H.",FRA,Silver
+328,1900,"MCEVOY, A.",FRA,Silver
+329,1900,"ROBINSON, D.",FRA,Silver
+330,1900,"ROQUES, F.",FRA,Silver
+331,1900,"SCHNEIDAU, A.J.",FRA,Silver
+332,1900,"TERRY, Henry John",FRA,Silver
+333,1900,"TOMALIN, P.H.",FRA,Silver
+334,1900,AUMOITTE,FRA,Gold
+335,1900,JOHIN,FRA,Gold
+336,1900,WAYDELICH,FRA,Bronze
+337,1900,AUMOITTE,FRA,Gold
+338,1900,JOHIN,FRA,Silver
+339,1900,SAUTREAU,FRA,Bronze
+340,1900,WAYDELICH,FRA,Gold
+341,1900,VIGNEROT,FRA,Silver
+342,1900,"DAUMAIN, .....",FRA,Bronze
+343,1900,"BASTIEN, Louis",FRA,Gold
+344,1900,"HILDEBRAND, Louis",FRA,Silver
+345,1900,"LAKE, John Henry",USA,Bronze
+346,1900,"TAILLANDIER, Georges",FRA,Gold
+347,1900,"SANZ, Fernand",FRA,Silver
+348,1900,"VAN DE POELE, Georges",BEL,Bronze
+349,1900,"GARDERES, Dominique Maximien",FRA,Gold
+350,1900,"TRISSINO, Gian Giorgio",ITA,Gold
+351,1900,"DE CHAMPSAVIN, Louis",FRA,Bronze
+352,1900,"HAEGEMAN, Aimé",BEL,Gold
+353,1900,"VAN DE POELE, Georges",BEL,Silver
+354,1900,DE BELLEGARDE,FRA,Bronze
+355,1900,"VAN LANGHENDONCK, Constant",BEL,Gold
+356,1900,"TRISSINO, Gian Giorgio",ITA,Silver
+357,1900,"SEE, Léon",FRA,Bronze
+358,1900,"FONST, Ramon",CUB,Gold
+359,1900,"PERREE, Louis",FRA,Silver
+360,1900,"SEE, Léon",FRA,Bronze
+361,1900,"AYAT, Albert",FRA,Gold
+362,1900,"FONST, Ramon",CUB,Silver
+363,1900,"LAURENT, Henri",FRA,Bronze
+364,1900,"AYAT, Albert",FRA,Gold
+365,1900,"BOUGNOL, Emile",FRA,Silver
+366,1900,"BOULENGER, Marcel Jacques",FRA,Bronze
+367,1900,"COSTE, Emile",FRA,Gold
+368,1900,"MASSON, Henri",FRA,Silver
+369,1900,"MIMIAGUE, Jean-Baptiste",FRA,Bronze
+370,1900,"MERIGNAC, Lucien",FRA,Gold
+371,1900,"KIRCHHOFFER, Alphonse",FRA,Silver
+372,1900,"FLESCH, Siegfried",AUT,Bronze
+373,1900,"DE LA FALAISE, Georges",FRA,Gold
+374,1900,"THIEBAUT, Léon",FRA,Silver
+375,1900,"NERALIC, Milan",AUT,Bronze
+376,1900,"CONTE, Antonio",ITA,Gold
+377,1900,"SANTELLI, Italo",ITA,Silver
+378,1900,"DELBECQUE, Albert",BEL,Bronze
+379,1900,"KELECOM, R.",BEL,Bronze
+380,1900,"LEBOUTTE, Marcel",BEL,Bronze
+381,1900,LONDOT,BEL,Bronze
+382,1900,"MOREAU, Ernest",BEL,Bronze
+383,1900,"NEEFS, E.",BEL,Bronze
+384,1900,"PELGRIMS, Georges",BEL,Bronze
+385,1900,"RENIER, Alphonse",BEL,Bronze
+386,1900,"SPANNOGHE, E.",BEL,Bronze
+387,1900,"THORNTON, Erich",BEL,Bronze
+388,1900,VAN HEUCKELUM,BEL,Bronze
+389,1900,"BUCKENHAM, Claude Percy",GBR,Gold
+390,1900,"BURRIDGE, T.E.",GBR,Gold
+391,1900,"CHALK, Alfred Ernest",GBR,Gold
+392,1900,"GROSLING, William Sullivan",GBR,Gold
+393,1900,"HASLAM, A.",GBR,Gold
+394,1900,"JONES, J.H.",GBR,Gold
+395,1900,"NICHOLAS, J.",GBR,Gold
+396,1900,"QUASH, William Francis",GBR,Gold
+397,1900,"SPACKMAN, F.G.",GBR,Gold
+398,1900,"TURNER, R.R.",GBR,Gold
+399,1900,"ZEALLEY, James Edward",GBR,Gold
+400,1900,"ALLEMANE, Pierre",FRA,Silver
+401,1900,BACH,FRA,Silver
+402,1900,"BLOCH, Jean",FRA,Silver
+403,1900,"CANELLE, Fernand",FRA,Silver
+404,1900,DUPARC,FRA,Silver
+405,1900,FRAYSSE,FRA,Silver
+406,1900,GAILLARD,FRA,Silver
+407,1900,"GARNIER, René",FRA,Silver
+408,1900,GRANDJEAN,FRA,Silver
+409,1900,HUTEAU,FRA,Silver
+410,1900,LAMBERT,FRA,Silver
+411,1900,MACAIRE,FRA,Silver
+412,1900,PELTIER,FRA,Silver
+413,1900,"ROBERTSON, David Donaldson",GBR,Bronze
+414,1900,"SANDS, Charles Edward",USA,Gold
+415,1900,"RUTHERFORD, Walter",GBR,Silver
+416,1900,"PRATT, Daria",USA,Bronze
+417,1900,"ABBOTT, Margaret Ives",USA,Gold
+418,1900,"WHITTIER, Pauline",USA,Silver
+419,1900,"DEMANET, Lucien",FRA,Bronze
+420,1900,"SANDRAS, Gustave",FRA,Gold
+421,1900,"BAS, Noël",FRA,Silver
+422,1900,"BOUSSOD, Jean",ZZX,Bronze
+423,1900,"DUC DE BISACCIA, Louis",ZZX,Bronze
+424,1900,"FAUQUET LEMAITRE, A.",ZZX,Bronze
+425,1900,"RAOUL-DUVAL, Maurice",ZZX,Bronze
+426,1900,"DALY, Dennis",ZZX,Gold
+427,1900,"KEENE, Foxhall Parker",ZZX,Gold
+428,1900,"MACKEY, Frank Jay",ZZX,Gold
+429,1900,"RAWLINSON, Alfred",ZZX,Gold
+430,1900,"BUCKMASTER, Walter Selby",ZZX,Silver
+431,1900,"COMTE DE MADRE, José Pierre M.J.",ZZX,Silver
+432,1900,"FREAKE, Frederick Maitland",ZZX,Silver
+433,1900,"MCCREERY, Walter Adolph",ZZX,Silver
+434,1900,"BRANDT, Francois Antoine",NED,Bronze
+435,1900,"BROCKMANN, Hermanus Gerardus",NED,Bronze
+436,1900,"KLEIN, Roelof",NED,Bronze
+437,1900,"LEEGSTRA, Ruud Gerbens",NED,Bronze
+438,1900,"MIDDELBERG, Walter",NED,Bronze
+439,1900,"OFFERHAUS, Hendrik Karel",NED,Bronze
+440,1900,"THIJSSEN, Walter",NED,Bronze
+441,1900,"TROMP, Henricus",NED,Bronze
+442,1900,"VAN DIJK, Johannes Wilhelmus Maria",NED,Bronze
+443,1900,"ABELL, Louis",USA,Gold
+444,1900,"CARR, William",USA,Gold
+445,1900,"DEBAECKE, Harry",USA,Gold
+446,1900,"EXLEY, John",USA,Gold
+447,1900,"GEIGER, John",USA,Gold
+448,1900,"HEDLEY, Edward",USA,Gold
+449,1900,"JUVENAL, James",USA,Gold
+450,1900,"LOCKWOOD, Roscoe",USA,Gold
+451,1900,"MARSH, Edward",USA,Gold
+452,1900,"BRUGGEMAN, Prospère",BEL,Silver
+453,1900,"DE BISSCHOP, Jules",BEL,Silver
+454,1900,"DE COCK, Oscar",BEL,Silver
+455,1900,"DE SOMVILLE, Oscar Charles",BEL,Silver
+456,1900,"HEMELSOET, Maurice",BEL,Silver
+457,1900,"ODBERG, Frank",BEL,Silver
+458,1900,"VAN CROMBRUGGHE, Marcel Lucien",BEL,Silver
+459,1900,"VAN LANDEGHEM, Alfred",BEL,Silver
+460,1900,"VERDONCK, Maurice",BEL,Silver
+461,1900,"CARSTENS, Wilhelm",GER,Bronze
+462,1900,"FELLE, Ernst",GER,Bronze
+463,1900,"FICKEISEN, Otto",GER,Bronze
+464,1900,"KÖRNER, Julius",GER,Bronze
+465,1900,"KRÖWERATH, Franz",GER,Bronze
+466,1900,"LEHLE, Carl",GER,Bronze
+467,1900,"MÖLLER, Adolf",GER,Bronze
+468,1900,"MOTHS, Gustav Adolf",GER,Bronze
+469,1900,"RÜSTER, Hugo",GER,Bronze
+470,1900,"WILKER, Hermann",GER,Bronze
+471,1900,"BOUCKAERT, Henri",FRA,Gold
+472,1900,"CAU, Jean",FRA,Gold
+473,1900,CHARLOT,FRA,Gold
+474,1900,"DELCHAMBRE, Emile",FRA,Gold
+475,1900,"GOSSLER, Carl Heinrich",GER,Gold
+476,1900,"GOSSLER, Gustav Ludwig",GER,Gold
+477,1900,"GOSSLER, Oscar",GER,Gold
+478,1900,"HAZEBROUCK, Henri",FRA,Gold
+479,1900,"KATZENSTEIN, Walther",GER,Gold
+480,1900,"TIETGENS, Waldemar",GER,Gold
+481,1900,"BROCKMANN, Hermanus Gerardus",NED,Silver
+482,1900,"HIEBENDAAI, Coenraad Christiaan",NED,Silver
+483,1900,"LOTSY, Gerhard Oswald",NED,Silver
+484,1900,"LOTSY, Paulus Jan",NED,Silver
+485,1900,"LUMPP, Georges",FRA,Silver
+486,1900,"PERRIN, Charles",FRA,Silver
+487,1900,"SOUBEYRAN, Daniel",FRA,Silver
+488,1900,"TERWOGT, Johannes Hester Lambertus",NED,Silver
+489,1900,"WEGELIN, Emile",FRA,Silver
+490,1900,"DELTOUR, Carlos",FRA,Bronze
+491,1900,"PAOLI, Raoul",FRA,Bronze
+492,1900,"VEDRENNE, Antoine Erneste",FRA,Bronze
+493,1900,"BRANDT, Francois Antoine",ZZX,Gold
+494,1900,"BROCKMANN, Hermanus Gerardus",ZZX,Gold
+495,1900,"KLEIN, Roelof",ZZX,Gold
+496,1900,"MARTINET, Louis",FRA,Silver
+497,1900,UNKNOWN COX / BARREUR INCONNU,FRA,Silver
+498,1900,WALEFF,FRA,Silver
+499,1900,"ASHE, Saint-George",GBR,Bronze
+500,1900,"BARRELET, Henri",FRA,Gold
+501,1900,"GAUDIN, André",FRA,Silver
+502,1900,"AITOFF, Vladimir",FRA,Gold
+503,1900,"ALBERT, A.",FRA,Gold
+504,1900,"BINOCHE, Jean, LÃ©on",FRA,Gold
+505,1900,"COLLAS, Jean",FRA,Gold
+506,1900,"GAUTIER, Jean Guy",FRA,Gold
+507,1900,"GIROUX, Auguste",FRA,Gold
+508,1900,"GONDOUIN, Charles",FRA,Gold
+509,1900,"HENRIQUEZ DE ZUBIERRA, Constantin",FRA,Gold
+510,1900,"HERVE, Jean",FRA,Gold
+511,1900,"LARDANCHET, Victor",FRA,Gold
+512,1900,"LEFEBVRE, Hubert",FRA,Gold
+513,1900,"OLIVIER, Joseph",FRA,Gold
+514,1900,"PHARAMOND, Alexandre",FRA,Gold
+515,1900,"REICHEL, Frantz",FRA,Gold
+516,1900,"RISCHMANN, André",FRA,Gold
+517,1900,"ROOSEVELT, Albert",FRA,Gold
+518,1900,"SARRADE, Emile",FRA,Gold
+519,1900,"AMRHEIN, Albert",GER,Silver
+520,1900,"BAYLISS, F.C.",GBR,Silver
+521,1900,"BETTING, Hugo",GER,Silver
+522,1900,"BIRTLES, J.Henry",GBR,Silver
+523,1900,"CAUTLON, J.",GBR,Silver
+524,1900,"DARBY, Artur John",GBR,Silver
+525,1900,"DEYKIN, C.P.",GBR,Silver
+526,1900,"HERRMANN, Jacob",GER,Silver
+527,1900,"HOFMEISTER, Willy",GER,Silver
+528,1900,"HOOD, L.",GBR,Silver
+529,1900,"KREUZER, Hermann",GER,Silver
+530,1900,"LANDVOIGT, Arnold",GER,Silver
+531,1900,"LATSCHA, Hans",GER,Silver
+532,1900,"LOGAN, M.L.",GBR,Silver
+533,1900,"LOVEITT, H.A.",GBR,Silver
+534,1900,"LUDWIG, Erich",GER,Silver
+535,1900,"LUDWIG, Richard",GER,Silver
+536,1900,"MÜLLER, Fritz",GER,Silver
+537,1900,"NICOL, N.S.",GBR,Silver
+538,1900,"POPPE, Eduard",GER,Silver
+539,1900,"REITZ, Heinrich",GER,Silver
+540,1900,"SCHMIERER, August",GER,Silver
+541,1900,"SMITH, V.",GBR,Silver
+542,1900,"STOCKHAUSEN, Adolf",GER,Silver
+543,1900,"TALBOT, M.W.",GBR,Silver
+544,1900,"WALLIS, J.G.",GBR,Silver
+545,1900,"WENDEROTH, Georg",GER,Silver
+546,1900,"WHITTINDALE, Claud",GBR,Silver
+547,1900,"WHITTINDALE, Raymond",GBR,Silver
+548,1900,"WILSON, Francis Henry",GBR,Silver
+549,1900,"MICHELET, E.",FRA,Bronze
+550,1900,"MICHELET, F.",FRA,Bronze
+551,1900,"GRETTON, John H.",GBR,Gold
+552,1900,"HOPE, Linton",GBR,Gold
+553,1900,"LORD CURRIE, Lorne Campbell",GBR,Gold
+554,1900,"BAUDRIER, Jacques",FRA,Silver
+555,1900,"LEBRET, Jean",FRA,Silver
+556,1900,MARCOTTE,FRA,Silver
+557,1900,"MARTIN, William",FRA,Silver
+558,1900,VALTON,FRA,Silver
+559,1900,"HORE, Edward",GBR,Bronze
+560,1900,"BILLARD, Emile",FRA,Gold
+561,1900,"PERQUER, P.",FRA,Gold
+562,1900,"LE DUC DECAZES, Jean",FRA,Silver
+563,1900,"MACHENRY, M.",USA,Bronze
+564,1900,"TAYLOR, Howard",GBR,Gold
+565,1900,"GUFFLET, Maurice",FRA,Silver
+566,1900,"MICHELET, E.",FRA,Bronze
+567,1900,"MICHELET, F.",FRA,Bronze
+568,1900,"GRETTON, John H.",GBR,Gold
+569,1900,"HOPE, Linton",GBR,Gold
+570,1900,"LORD CURRIE, Lorne Campbell",GBR,Gold
+571,1900,"NAUE, Georg",GER,Silver
+572,1900,"PETERS, Heinrich",GER,Silver
+573,1900,"WEISE, Ottokar",GER,Silver
+574,1900,"WIESNER, Martin",GER,Silver
+575,1900,"BALME, Eugène",FRA,Bronze
+576,1900,"LARROUY, Maurice",FRA,Gold
+577,1900,"MOREAUX, Léon",FRA,Silver
+578,1900,"BOUWENS, Antonius",NED,Bronze
+579,1900,"SILLEM, Henrik",NED,Bronze
+580,1900,"SWEYS, Anthony Ahasuerus",NED,Bronze
+581,1900,"VAN DEN BERGH, Solko Johannes",NED,Bronze
+582,1900,"VAN HAAN, Gerardus",NED,Bronze
+583,1900,"LÜTHI, Friedrich",SUI,Gold
+584,1900,"PROBST, Paul",SUI,Gold
+585,1900,"RICHARDET, Louis-Marc",SUI,Gold
+586,1900,"RÖDERER, Karl Konrad",SUI,Gold
+587,1900,"STÄHELI, Konrad",SUI,Gold
+588,1900,"DUFFOY, Louis",FRA,Silver
+589,1900,"LECOQ, Maurice",FRA,Silver
+590,1900,"MOREAUX, Léon",FRA,Silver
+591,1900,"PAROCHE, Achille",FRA,Silver
+592,1900,TRINITE,FRA,Silver
+593,1900,"STÄHELI, Konrad",SUI,Bronze
+594,1900,"RÖDERER, Karl Konrad",SUI,Gold
+595,1900,"PAROCHE, Achille",FRA,Silver
+596,1900,"ÖSTMO, Ole",NOR,Bronze
+597,1900,"VAN ASBROECK, Paul",BEL,Bronze
+598,1900,"KELLENBERGER, Emil",SUI,Gold
+599,1900,"NIELSEN, Anders Peter",DEN,Silver
+600,1900,"STÄHELI, Konrad",SUI,Gold
+601,1900,"KELLENBERGER, Emil",SUI,Silver
+602,1900,"NIELSEN, Anders Peter",DEN,Silver
+603,1900,"ÖSTMO, Ole",NOR,Bronze
+604,1900,"PAROCHE, Achille",FRA,Gold
+605,1900,"NIELSEN, Anders Peter",DEN,Silver
+606,1900,"PAUMIER DU VERGIER, Charles",BEL,Bronze
+607,1900,"MADSEN, Lars Jörgen",DEN,Gold
+608,1900,"ÖSTMO, Ole",NOR,Silver
+609,1900,"CAVADINI, Auguste",FRA,Bronze
+610,1900,"LECOQ, Maurice",FRA,Bronze
+611,1900,"MOREAUX, Léon",FRA,Bronze
+612,1900,"PAROCHE, Achille",FRA,Bronze
+613,1900,"THOMAS, René",FRA,Bronze
+614,1900,"BÖCKLI, Franz",SUI,Gold
+615,1900,"GRÜTER, Alfred",SUI,Gold
+616,1900,"KELLENBERGER, Emil",SUI,Gold
+617,1900,"RICHARDET, Louis-Marc",SUI,Gold
+618,1900,"STÄHELI, Konrad",SUI,Gold
+619,1900,"FRYDENLUND, Olaf Emil",NOR,Silver
+620,1900,"HERMANDSEN, Hellmer",NOR,Silver
+621,1900,"ÖSTMO, Ole",NOR,Silver
+622,1900,"SAETHER, Ole Andreas",NOR,Silver
+623,1900,"SEEBERG, Tom",NOR,Silver
+624,1900,"DE CLARY, Justinien",FRA,Bronze
+625,1900,"DE BARBARIN, Roger",FRA,Gold
+626,1900,"GUYOT, René",FRA,Silver
+627,1900,"DE LA CHAPELLE, Georges",FRA,Bronze
+628,1900,"MAHONY, Harold Sergerson",GBR,Bronze
+629,1900,"NORRIS, Arthur B.J.",GBR,Bronze
+630,1900,"PREVOST, André",FRA,Bronze
+631,1900,"DOHERTY, Hugh Lawrence",GBR,Gold
+632,1900,"DOHERTY, Reginald Frank",GBR,Gold
+633,1900,"DE GARMENDIA, Basil Spalding",ZZX,Silver
+634,1900,"DECUGIS, Max",ZZX,Silver
+635,1900,"DOHERTY, Hugh Lawrence",ZZX,Bronze
+636,1900,"WARDEN, Archibald A.",ZZX,Bronze
+637,1900,"DOHERTY, Reginald Frank",GBR,Gold
+638,1900,"MAHONY, Harold Sergerson",ZZX,Silver
+639,1900,"JONES, Marion",ZZX,Bronze
+640,1900,"ROSENBAUM, Hedwig",ZZX,Bronze
+641,1900,"COOPER, Charlotte",GBR,Gold
+642,1900,"PREVOST, Hélène",ZZX,Silver
+643,1900,"DOHERTY, Reginald Frank",GBR,Bronze
+644,1900,"NORRIS, Arthur B.J.",GBR,Bronze
+645,1900,"DOHERTY, Hugh Lawrence",GBR,Gold
+646,1900,"MAHONY, Harold Sergerson",GBR,Silver
+647,1900,"JONES, Marion",USA,Bronze
+648,1900,"ROSENBAUM, Hedwig",BOH,Bronze
+649,1900,"COOPER, Charlotte",GBR,Gold
+650,1900,"PREVOST, Hélène",FRA,Silver
+651,1900,"AABYE, Edgar",ZZX,Gold
+652,1900,"NILSSON, August",ZZX,Gold
+653,1900,"SCHMIDT, Eugen",ZZX,Gold
+654,1900,"SÖDERSTRÖM, Gustaf",ZZX,Gold
+655,1900,"STAAF, Karl Gustav",ZZX,Gold
+656,1900,"WINCKLER, Charles",ZZX,Gold
+657,1900,"BASSET, Pierre",FRA,Silver
+658,1900,"COLLAS, Jean",FRA,Silver
+659,1900,"GONDOUIN, Charles",FRA,Silver
+660,1900,"HENRIQUEZ DE ZUBIERRA, Constantin",FRA,Silver
+661,1900,"ROFFO, Joseph",FRA,Silver
+662,1900,"SARRADE, Emile",FRA,Silver
